@@ -75,7 +75,7 @@ Provides a high-level snapshot of channel performance.
 
 📷 Dashboard Screenshot:
 
-![Overview Dashboard](images/page1-overview.png)
+![Overview Dashboard](Overview1.png)
 
 ---
 
@@ -93,7 +93,7 @@ Focuses on audience interaction and engagement behavior.
 
 📷 Dashboard Screenshot:
 
-![Engagement Dashboard](images/page2-engagement.png)
+![Engagement Dashboard](Overview2.png)
 
 ---
 
@@ -111,7 +111,7 @@ Identifies the videos driving channel success.
 
 📷 Dashboard Screenshot:
 
-![Top Videos Dashboard](images/page3-topvideos.png)
+![Top Videos Dashboard](Overview3.png)
 
 ---
 
