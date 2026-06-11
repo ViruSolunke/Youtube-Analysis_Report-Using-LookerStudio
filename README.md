@@ -183,11 +183,7 @@ This dashboard helps creators:
 
 ### 📂 GitHub Repository
 
-[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
-
-### 📑 Project Documentation
-
-[Read Documentation](YOUR_DOCUMENTATION_LINK)
+[View Source Code](https://github.com/ViruSolunke/Youtube-Analysis_Report-Using-LookerStudio.git)
 
 ---
 
